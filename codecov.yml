@@ -1,0 +1,6 @@
+ignore:
+    - "m3rdparty/.*"
+    - "src/app/qt/.*"
+    - "src/app/imgui/.*"
+    - "src/lib/qt/.*"
+    - "src/lib/imgui/.*"
