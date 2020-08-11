@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.2)
 
-option (BUILD_QT "Make a Qt App" ON)
+option (BUILD_QT "Make a Qt App" OFF)
 option (BUILD_IMGUI "Make an imgui App" ON)
 
-set (CMAKE_CXX_STANDARD 14)
+set (CMAKE_CXX_STANDARD 17)
 set (CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 PROJECT (StarterKit)

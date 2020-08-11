@@ -70,10 +70,10 @@ cmake --build .
 ```
 ###### PC
 ```
-config.bat
+config_all.bat
 cd build
 cmake --build .
-(Or load solution in VC 2017)
+(Or load solution in VC 2019)
 ```
 
 ##### Tests
